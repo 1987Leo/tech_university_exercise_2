@@ -1,4 +1,4 @@
-package com.datio.techu.exercise2;
+package com.datio.academy.exercise2;
 
 public class App {
 
